@@ -1,0 +1,29 @@
+* {
+    font-size: 18;
+}
+
+.bemvindo {
+    text-align: center;
+    font-size: 20px;
+}
+
+.on {
+    color: blue;
+    text-decoration:dotted;
+}
+
+.titulo {
+    text-align: center;
+}
+
+.paragrafo {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+
+    text-overflow:unset;
+    text-align: center;
+}
+
+h2 {
+    font-size: 18px;
+}
